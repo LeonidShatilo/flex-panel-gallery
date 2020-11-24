@@ -8,7 +8,7 @@
 html {
   box-sizing: border-box;
   font-family: 'Amatic SC';
-  font-size: 1.5vw;
+  font-size: 20px;
   font-weight: 200;
 }
 
@@ -36,7 +36,7 @@ body {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  font-size: 1.5vw;
+  font-size: 1em;
   color: white;
   background-size: cover;
   background-position: center;
@@ -45,23 +45,23 @@ body {
     flex 0.7s cubic-bezier(0.61, -0.19, 0.7, -0.11), background 0.2s;
 }
 
-.panel1 {
+.panel-1 {
   background-image: url('/flex-panel-gallery/assets/images/photo-1.png');
 }
 
-.panel2 {
+.panel-2 {
   background-image: url('/flex-panel-gallery/assets/images/photo-2.png');
 }
 
-.panel3 {
+.panel-3 {
   background-image: url('/flex-panel-gallery/assets/images/photo-3.png');
 }
 
-.panel4 {
+.panel-4 {
   background-image: url('/flex-panel-gallery/assets/images/photo-4.png');
 }
 
-.panel5 {
+.panel-5 {
   background-image: url('/flex-panel-gallery/assets/images/photo-5.png');
 }
 
@@ -105,5 +105,5 @@ body {
 
 .panel.open {
   flex: 5;
-  font-size: 3vw;
+  font-size: 3em;
 }
