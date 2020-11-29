@@ -1,3 +1,11 @@
 # flex-panel-gallery
 
-**https://leonidshatilo.github.io/flex-panel-gallery/**
+**[Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/projects.md#task-6-flex-panel-gallery-10)**
+
+**[Result](https://leonidshatilo.github.io/flex-panel-gallery/)**
+
+---
+
+**Description**
+
+Gallery with images that are opened when you click on them. When you open it, additional text appears and the font increases.
